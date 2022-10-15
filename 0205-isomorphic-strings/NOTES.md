@@ -1,1 +1,1 @@
-​
+Here, the s.index(s) would give you the first occurence of that letter
